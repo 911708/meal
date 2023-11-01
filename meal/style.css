@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: cornsilk;
+}
+
+.header {
+  font-family: monospace;
+  padding: 0.5em;
+  color: green;
+}
+
+#container {
+  border: 3px dotted red;
+  min-height: 50vh;
+  margin: 1em;
+}
+
+span {
+  color: green;
+  font-size: larger;
+  font-weight: bolder;
+  padding: 0.5em;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  padding: 0.5em;
+}
